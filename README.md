@@ -1,4 +1,8 @@
-# AWS Serverless ETL Data Pipeline
+<<<<<<< HEAD
+Your local README content
+=======
+GitHub README content
+>>>>>>> ...# AWS Serverless ETL Data Pipeline
 
 ## Project Overview
 
