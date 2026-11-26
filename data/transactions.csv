@@ -1,0 +1,2 @@
+transaction_id,customer_name,amount,status,rejection_reason
+109,Ram,ABC,success,could not convert string to float: 'ABC'
